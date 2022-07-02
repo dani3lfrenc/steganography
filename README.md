@@ -34,16 +34,11 @@ Under the path we can see the message we have hidden earlier
 # Some additional information
 
 Alls the code work if the image extensione is "JPEG".
-If you try to write or read image messages with other extensions (such as PNG), the result is the following:
+If you try to write or read image messages with other extensions (such as PNG), the result is a sequence of numbers, letters and signs
 
-
-
-
-
-![Alt text](/Screenshot/img.png?raw=true)
-
-As you can see, the message is present at the end but is preceded by all the hex code, resulting in not being very clear.
+However the message is present at the end but is preceded by all the hex code, resulting in not being very clear.
 I'm working to use this program with all the images extensions.
+
 ## Deployment
 
 To deploy this project run
